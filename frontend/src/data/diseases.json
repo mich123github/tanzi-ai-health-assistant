@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Malaria",
+    "symptoms": ["fever", "chills", "sweating", "headache", "body pain", "vomiting"],
+    "cause": "Spread through bites of infected Anopheles mosquitoes.",
+    "riskFactors": ["sleeping without a mosquito net", "stagnant water nearby", "rainy season"],
+    "treatment": "Seek medical attention immediately. Malaria is treatable with antimalarial drugs. Do not self-medicate.",
+    "prevention": "Use mosquito nets, indoor spraying, and remove stagnant water around the home."
+  },
+  {
+    "id": 2,
+    "name": "Cholera",
+    "symptoms": ["severe diarrhea", "vomiting", "dehydration", "leg cramps"],
+    "cause": "Caused by contaminated water or food.",
+    "riskFactors": ["poor sanitation", "unclean drinking water", "crowded areas"],
+    "treatment": "Rehydrate immediately using ORS and seek urgent medical care.",
+    "prevention": "Drink safe water, wash hands, cook food thoroughly, practice good hygiene."
+  },
+  {
+    "id": 3,
+    "name": "Typhoid Fever",
+    "symptoms": ["fever", "stomach pain", "weakness", "loss of appetite", "headache"],
+    "cause": "Bacteria spread through contaminated food or water.",
+    "riskFactors": ["unsafe water", "poor food handling"],
+    "treatment": "Requires antibiotics. Visit a clinic as soon as possible.",
+    "prevention": "Wash hands, boil drinking water, avoid uncooked foods."
+  },
+  {
+    "id": 4,
+    "name": "Tuberculosis (TB)",
+    "symptoms": ["persistent cough", "night sweats", "fever", "weight loss", "chest pain"],
+    "cause": "Airborne bacteria spread when infected people cough or sneeze.",
+    "riskFactors": ["close contact with infected person", "HIV", "overcrowded living"],
+    "treatment": "Six-month antibiotic treatment at registered TB centers.",
+    "prevention": "Good ventilation, early screening, adherence to TB treatment."
+  },
+  {
+    "id": 5,
+    "name": "Common Cold",
+    "symptoms": ["runny nose", "cough", "sore throat", "mild fever", "sneezing"],
+    "cause": "Caused by viral infections spread through droplets.",
+    "riskFactors": ["cold weather", "close contact", "weak immunity"],
+    "treatment": "Rest, fluids, warm drinks, pain relievers.",
+    "prevention": "Wash hands frequently and avoid touching your face."
+  },
+  {
+    "id": 6,
+    "name": "COVID-19",
+    "symptoms": ["cough", "fever", "shortness of breath", "loss of smell", "loss of taste"],
+    "cause": "Respiratory virus spread through droplets and surfaces.",
+    "riskFactors": ["crowded areas", "unvaccinated individuals", "weak immunity"],
+    "treatment": "Isolate, hydrate, and seek care for breathing difficulty.",
+    "prevention": "Vaccination, masks, hand washing."
+  },
+  {
+    "id": 7,
+    "name": "HIV/AIDS",
+    "symptoms": ["weight loss", "night sweats", "weakness", "recurrent infections"],
+    "cause": "Virus spread through blood, sexual contact, and childbirth.",
+    "riskFactors": ["unprotected sex", "sharing needles"],
+    "treatment": "Antiretroviral therapy (ART). Available for free at clinics.",
+    "prevention": "Safe sex, HIV testing, avoid sharing needles."
+  },
+  {
+    "id": 8,
+    "name": "Pneumonia",
+    "symptoms": ["fever", "fast breathing", "cough with mucus", "chest pain", "weakness"],
+    "cause": "Bacterial or viral infection of the lungs.",
+    "riskFactors": ["children under 5", "elderly adults", "HIV"],
+    "treatment": "Requires antibiotics or antiviral treatment at a clinic.",
+    "prevention": "Vaccination, avoiding smoke, prompt treatment of colds."
+  },
+  {
+    "id": 9,
+    "name": "Asthma",
+    "symptoms": ["wheezing", "shortness of breath", "chest tightness", "chronic cough"],
+    "cause": "Inflammation of the airways triggered by dust, smoke, or cold air.",
+    "riskFactors": ["family history", "air pollution", "smoke"],
+    "treatment": "Use inhalers as prescribed. Seek care during severe attacks.",
+    "prevention": "Avoid triggers such as dust, smoke, or allergens."
+  },
+  {
+    "id": 10,
+    "name": "Hypertension",
+    "symptoms": ["headache", "dizziness", "blurred vision", "often no symptoms"],
+    "cause": "High blood pressure due to lifestyle, stress, or genetics.",
+    "riskFactors": ["obesity", "salt intake", "family history", "stress"],
+    "treatment": "Lifestyle changes and medication at a clinic.",
+    "prevention": "Healthy diet, reduced salt, exercise."
+  },
+  {
+    "id": 11,
+    "name": "Diabetes",
+    "symptoms": ["excessive thirst", "frequent urination", "fatigue", "slow wound healing"],
+    "cause": "Body cannot regulate blood sugar properly.",
+    "riskFactors": ["obesity", "family history", "poor diet"],
+    "treatment": "Diet changes, medication, and regular checkups.",
+    "prevention": "Healthy eating and exercise."
+  },
+  {
+    "id": 12,
+    "name": "Dysentery",
+    "symptoms": ["bloody diarrhea", "stomach cramps", "fever", "vomiting"],
+    "cause": "Bacterial or amoebic infection through contaminated food or water.",
+    "riskFactors": ["poor sanitation", "unsafe drinking water"],
+    "treatment": "ORS for hydration and antibiotics at a clinic.",
+    "prevention": "Boil water and maintain good hygiene."
+  },
+  {
+    "id": 13,
+    "name": "Anaemia",
+    "symptoms": ["fatigue", "pale skin", "dizziness", "shortness of breath"],
+    "cause": "Low red blood cells due to iron deficiency or chronic illness.",
+    "riskFactors": ["poor nutrition", "pregnancy", "heavy menstrual bleeding"],
+    "treatment": "Iron supplements and diet changes.",
+    "prevention": "Iron-rich foods like beans, meat, and leafy vegetables."
+  },
+  {
+    "id": 14,
+    "name": "Bilharzia (Schistosomiasis)",
+    "symptoms": ["blood in urine", "stomach pain", "rash", "fatigue"],
+    "cause": "Parasites from contaminated freshwater streams.",
+    "riskFactors": ["swimming in rivers", "farming near water"],
+    "treatment": "Praziquantel medication at clinics.",
+    "prevention": "Avoid swimming in contaminated water."
+  },
+  {
+    "id": 15,
+    "name": "Measles",
+    "symptoms": ["rash", "fever", "cough", "red eyes", "runny nose"],
+    "cause": "Highly contagious virus spread through droplets.",
+    "riskFactors": ["unvaccinated children", "crowded homes"],
+    "treatment": "Supportive care; vitamin A supplementation.",
+    "prevention": "Measles vaccination."
+  },
+  {
+    "id": 16,
+    "name": "Influenza (Flu)",
+    "symptoms": ["fever", "cough", "muscle pain", "chills", "fatigue"],
+    "cause": "Viral infection spread through droplets.",
+    "riskFactors": ["cold seasons", "close contact"],
+    "treatment": "Rest, fluids, painkillers.",
+    "prevention": "Hand washing and avoiding close contact."
+  },
+  {
+    "id": 17,
+    "name": "Food Poisoning",
+    "symptoms": ["vomiting", "diarrhea", "stomach cramps", "fever"],
+    "cause": "Eating contaminated or spoiled food.",
+    "riskFactors": ["street food", "improper food storage"],
+    "treatment": "Hydrate and seek care if symptoms worsen.",
+    "prevention": "Proper food hygiene."
+  },
+  {
+    "id": 18,
+    "name": "Ringworm",
+    "symptoms": ["itchy circular rash", "scaly skin", "hair loss patches"],
+    "cause": "Fungal infection spread through contact.",
+    "riskFactors": ["shared towels", "pets", "crowded living"],
+    "treatment": "Antifungal creams or tablets.",
+    "prevention": "Keep skin dry, avoid sharing personal items."
+  },
+  {
+    "id": 19,
+    "name": "Conjunctivitis (Pink Eye)",
+    "symptoms": ["red eyes", "itching", "tearing", "discharge"],
+    "cause": "Viral or bacterial infection of the eye.",
+    "riskFactors": ["dust", "poor hygiene", "close contact"],
+    "treatment": "Clean eyes with warm water; seek care for severe symptoms.",
+    "prevention": "Avoid touching eyes and sharing towels."
+  },
+  {
+    "id": 20,
+    "name": "UTI (Urinary Tract Infection)",
+    "symptoms": ["burning urination", "frequent urge", "lower stomach pain"],
+    "cause": "Bacterial infection of the urinary tract.",
+    "riskFactors": ["poor hygiene", "holding urine", "sexual activity"],
+    "treatment": "Antibiotics from a clinic.",
+    "prevention": "Drink plenty of water and maintain good hygiene."
+  }
+]

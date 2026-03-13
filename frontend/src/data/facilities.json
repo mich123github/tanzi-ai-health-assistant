@@ -1,0 +1,112 @@
+[
+  {
+    "id": "fac-1",
+    "name": "Kamuzu Central Hospital",
+    "type": "Hospital",
+    "lat": -13.9626,
+    "lng": 33.7905,
+    "phone": "+265 1 770 000",
+    "address": "Area 11, Lilongwe",
+    "hours": "24/7",
+    "notes": "Major referral hospital in Lilongwe."
+  },
+  {
+    "id": "fac-2",
+    "name": "Bwaila Hospital",
+    "type": "Hospital",
+    "lat": -13.9831,
+    "lng": 33.7805,
+    "phone": "+265 1 776 000",
+    "address": "Bwaila Rd, Lilongwe",
+    "hours": "24/7",
+    "notes": "District hospital serving Lilongwe."
+  },
+  {
+    "id": "fac-3",
+    "name": "City Clinic Lilongwe",
+    "type": "Clinic",
+    "lat": -13.9567,
+    "lng": 33.7742,
+    "phone": "+265 1 772 123",
+    "address": "City Centre, Lilongwe",
+    "hours": "08:00-18:00",
+    "notes": "General outpatient services."
+  },
+  {
+    "id": "fac-4",
+    "name": "Lilongwe Pharmacy",
+    "type": "Pharmacy",
+    "lat": -13.9589,
+    "lng": 33.7753,
+    "phone": "+265 1 772 400",
+    "address": "Market Rd, Lilongwe",
+    "hours": "07:00-20:00",
+    "notes": "Open late, medicines and OTC supplies."
+  },
+  {
+    "id": "fac-5",
+    "name": "Area 47 Health Centre",
+    "type": "Clinic",
+    "lat": -13.9345,
+    "lng": 33.7500,
+    "phone": "+265 1 771 234",
+    "address": "Area 47, Lilongwe",
+    "hours": "08:00-17:00",
+    "notes": "Primary care and maternal health services."
+  },
+  {
+    "id": "fac-6",
+    "name": "Chiringa Rural Hospital",
+    "type": "Hospital",
+    "lat": -14.0380,
+    "lng": 34.0101,
+    "phone": "+265 1 788 900",
+    "address": "Chiringa, Southern Region",
+    "hours": "24/7",
+    "notes": "Covers surrounding rural communities."
+  },
+  {
+    "id": "fac-7",
+    "name": "Zomba Central Hospital",
+    "type": "Hospital",
+    "lat": -15.3895,
+    "lng": 35.3280,
+    "phone": "+265 1 523 000",
+    "address": "Zomba Town",
+    "hours": "24/7",
+    "notes": "Regional referral hospital."
+  },
+  {
+    "id": "fac-8",
+    "name": "Blantyre Pharmacy",
+    "type": "Pharmacy",
+    "lat": -15.7861,
+    "lng": 35.0058,
+    "phone": "+265 1 822 400",
+    "address": "Blantyre City Centre",
+    "hours": "08:00-20:00",
+    "notes": "Chain pharmacy with long hours."
+  },
+  {
+    "id": "fac-9",
+    "name": "Queen Elizabeth Central Hospital",
+    "type": "Hospital",
+    "lat": -15.7867,
+    "lng": 35.0123,
+    "phone": "+265 1 820 000",
+    "address": "Blantyre",
+    "hours": "24/7",
+    "notes": "Major referral hospital in southern Malawi."
+  },
+  {
+    "id": "fac-10",
+    "name": "Mangochi District Hospital",
+    "type": "Hospital",
+    "lat": -14.4783,
+    "lng": 35.2669,
+    "phone": "+265 1 756 800",
+    "address": "Mangochi",
+    "hours": "24/7",
+    "notes": "Serves lakeside communities."
+  }
+]

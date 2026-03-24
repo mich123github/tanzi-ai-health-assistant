@@ -33,11 +33,12 @@ app.use('/api/analytics', analyticsRoutes);
 
 
 // connect to MongoDB then start server
-const PORT = process.env.PORT || 4000;
-mongoose.connect(process.env.MONGO_URI, { })
+const PORT = process.env.PORT;
+
+mongoose.connect(process.env.MONGO_URI)
   .then(() => {
     console.log('✅ Connected to MongoDB');
-    app.listen(PORT, () => console.log(`Server running http://localhost:${PORT}`));
+    app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
   })
   .catch(err => {
     console.error('❌ MongoDB connection error:', err);
